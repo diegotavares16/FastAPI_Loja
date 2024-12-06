@@ -1,0 +1,18 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Smartphone",
+            "descricao": "Um telefone inteligente",
+            "preco": 1999.99,
+            "disponivel": true
+        },
+        {
+            "id": 2,
+            "nome": "Notebook",
+            "descricao": "Um computador portatil",
+            "preco": 3999.99,
+            "disponivel": false
+        }
+    ]
+}
